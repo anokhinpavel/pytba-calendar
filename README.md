@@ -13,7 +13,7 @@ Import the library:
 
 `import pytba_calendar`
 
-`To see examples of usage, please see the project file example.py`
+**To see examples of usage, please see the project file example.py**
 
 ## Timezones
 
