@@ -2,6 +2,8 @@
 
 **A small library that allows you to give the user a convenient format for selecting the desired date**
 
+****You can try it in real mode: https://t.me/pytbacalendarbot****
+
 ## Install
 
 1. `cd /your/project/path`
@@ -22,3 +24,4 @@ By default, the bot uses the UTC time zone. If you want to change it to another,
 ## Flow
 
 ![](flow.gif)
+
