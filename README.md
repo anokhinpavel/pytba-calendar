@@ -18,3 +18,7 @@ Import the library:
 ## Timezones
 
 By default, the bot uses the UTC time zone. If you want to change it to another, you should specify your time zone after the declaring calendar object. An example is also available in the file example.py
+
+## Flow
+
+![](flow.gif)
